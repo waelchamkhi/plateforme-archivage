@@ -1,6 +1,4 @@
-# [Nom de Votre Projet Ici]
-
-Une courte description de ce que fait le projet React.
+# Plateforme Archivage
 
 ---
 
